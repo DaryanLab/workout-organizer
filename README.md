@@ -2,7 +2,7 @@
 
 
 [README.md](https://github.com/user-attachments/files/27564349/README.md)
-# Running Workout Organiser — Build and sync structured workouts for Garmin (soon Coros and Suunto via Intervals.icu).
+# Running Workout Organiser — Build and sync structured workouts for Garmin (Coros and Suunto via Intervals.icu).
 
 <div align="center">
 
